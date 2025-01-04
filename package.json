@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "gsap": "^3.12.5"
+  },
+  "name": "basic-gsap-animations",
+  "version": "1.0.0",
+  "description": "NPM package for basic GSAP animation",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhaykevat23/basic-gsap-animations.git"
+  },
+  "keywords": [
+    "NPM",
+    "npm"
+  ],
+  "author": "Abhay Kevat",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Abhaykevat23/basic-gsap-animations/issues"
+  },
+  "homepage": "https://github.com/Abhaykevat23/basic-gsap-animations#readme"
+}
